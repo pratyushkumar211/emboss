@@ -10,4 +10,4 @@ __pycache__
 .vscode
 
 # .emb syntax highlighting.
-*.emb linguist-language=Go
+*.emb linguist-language=Protobuf
