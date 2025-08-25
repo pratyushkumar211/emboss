@@ -8,6 +8,3 @@ __pycache__
 
 # IDEs
 .vscode
-
-# .emb syntax highlighting.
-*.emb linguist-language=YAML
